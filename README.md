@@ -1,0 +1,6 @@
+# `angular-confirm-button`
+## Install
+...
+
+## Usage
+...
