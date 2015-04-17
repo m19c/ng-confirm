@@ -1,0 +1,23 @@
+{
+  "camelcase": true,
+  "eqeqeq": true,
+  "es3": false,
+  "indent": 2,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "maxparams": 3,
+  "maxdepth": 4,
+  "maxlen": 120,
+  "browser": true,
+  "validthis": true,
+  "white": true,
+  "nonbsp": true,
+  "sub": true,
+  "node": true,
+  "onevar": true,
+  "globals": {
+    "angular": true,
+    "jquery": true
+  }
+}
