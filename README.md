@@ -5,6 +5,10 @@ bower install angular-confirm
 ```
 
 ## Usage
+```html
+<script src="path/to/angular-confirm/dist/angular-confirm.min.js"></script>
+```
+
 ```javascript
 var app = angular.module('my-app', ['ngConfirm']);
 ```
