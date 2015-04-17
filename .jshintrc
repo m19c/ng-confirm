@@ -18,6 +18,7 @@
   "onevar": true,
   "globals": {
     "angular": true,
-    "jquery": true
+    "jquery": true,
+    "$": true
   }
 }
