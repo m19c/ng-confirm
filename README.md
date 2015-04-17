@@ -1,4 +1,6 @@
 # `angular-confirm-button`
+![Example](https://github.com/MrBoolean/angular-confirm/blob/master/example/example.gif)
+
 ## Install
 ```shell
 bower install angular-confirm
