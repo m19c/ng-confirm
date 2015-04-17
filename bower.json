@@ -9,7 +9,7 @@
   "ignore": [
     "example/",
     "node_modules/",
-    "vendor/"
+    "vendor/",
     "test/",
     ".jshintrc",
     ".gitignore",
