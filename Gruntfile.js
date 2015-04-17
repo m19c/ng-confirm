@@ -44,4 +44,5 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-shell');
 
   grunt.registerTask('generate-dist', ['jshint', 'copy:dist', 'shell:cc']);
+  grunt.registerTask('install', ['shell:bower']);
 };
