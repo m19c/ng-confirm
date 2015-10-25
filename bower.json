@@ -15,5 +15,6 @@
     ".gitignore",
     ".editorconfig",
     ".bowerrc"
-  ]
+  ],
+  "keywords": ["angular", "confirm", "button", "click"]
 }

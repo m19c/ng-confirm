@@ -29,5 +29,6 @@
   "pre-commit": [
     "lint",
     "transpile"
-  ]
+  ],
+  "keywords": ["angular", "confirm", "button", "click"]
 }
