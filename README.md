@@ -1,7 +1,7 @@
 # `ng-confirm`
 Simple confirm button for angular.
 
-![Example](https://github.com/MrBoolean/angular-confirm/blob/master/example/example.gif)
+![Example](https://github.com/MrBoolean/ng-confirm/blob/master/example/example.gif)
 
 ## Install
 ### Using npm
