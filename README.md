@@ -6,17 +6,17 @@ Simple confirm button for angular.
 ## Install
 ### Using npm
 ```shell
-npm install angular-confirm
+npm install ng-confirm
 ```
 
 ### Using bower
 ```shell
-bower install angular-confirm
+bower install ng-confirm
 ```
 
 ## Usage
 ```html
-<script src="path/to/angular-confirm/dist/angular-confirm.min.js"></script>
+<script src="path/to/ng-confirm/dist/ng-confirm.min.js"></script>
 ```
 
 ```javascript

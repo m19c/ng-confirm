@@ -23,7 +23,7 @@ transpilers.forEach(function eachTranspiler(transpiler) {
       .pipe(babel({
         modules: transpiler.type
       }))
-      .pipe(rename(`angular-confirm${transpiler.suffix}.js`))
+      .pipe(rename(`ng-confirm${transpiler.suffix}.js`))
       .pipe(gulp.dest('dist'))
     ;
   });
