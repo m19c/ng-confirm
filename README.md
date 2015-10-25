@@ -1,7 +1,15 @@
-# `angular-confirm-button`
+# `angular-confirm`
+Simple confirm button for angular.
+
 ![Example](https://github.com/MrBoolean/angular-confirm/blob/master/example/example.gif)
 
 ## Install
+### Using npm
+```shell
+npm install angular-confirm
+```
+
+### Using bower
 ```shell
 bower install angular-confirm
 ```

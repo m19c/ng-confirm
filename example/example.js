@@ -1,5 +1,3 @@
-'use strict';
-
 var app = angular.module('angular-confirm', ['ngConfirm']);
 
 app.controller('MainCtrl', function MainCtrl($scope) {
