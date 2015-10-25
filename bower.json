@@ -5,7 +5,7 @@
     "angular": "^1.4.7",
     "jquery": "^2.1.4"
   },
-  "main": "dist/angular-confirm.min.js",
+  "main": "dist/ng-confirm.js",
   "ignore": [
     "example/",
     "node_modules/",
