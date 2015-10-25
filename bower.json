@@ -1,6 +1,6 @@
 {
   "name": "angular-confirm",
-  "version": "1.1.0",
+  "version": "1.1.0-rc1",
   "dependencies": {
     "angular": "^1.4.7",
     "jquery": "^2.1.4"
